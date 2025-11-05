@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Nast 👋
 
-<!--
-**Nast16/Nast16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student • Beginner in Python & Data Science • Interested in AI for Accounting
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Python fundamentals (pandas, numpy, data analysis)
+- Basic machine learning concepts
+- How to build AI from scratch for accounting automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech & Tools
+- Python (beginner)
+- Excel (reporting & data processing)
+- Jupyter Notebook, pandas
+- Git & GitHub (beginner)
+
+## 📌 What You'll Find Here
+- My learning progress in Python and data science
+- Small projects: data automation, accounting-related scripts
+- Notes, experiments, and AI-for-accounting prototypes
+
+## 📫 Connect with Me
+- LinkedIn: [www.linkedin.com/in/lvnast]
+- Email: [vistara.leonardo@gmail.com]
